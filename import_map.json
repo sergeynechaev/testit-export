@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "fs": "https://deno.land/std@0.132.0/fs/mod.ts",
+    "stream": "https://deno.land/std@0.118.0/streams/mod.ts"
+  }
+}
